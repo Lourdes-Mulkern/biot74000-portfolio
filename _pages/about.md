@@ -29,15 +29,12 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm Lourdes Mulkern, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
+I am currently intrested in environmental monitoring and polutions and how we can combat these issues to help create a healthier world.
 
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+Using bioinformatic tools such as RStdio, will help to analyze mass amounts of data, allowing for faster analysis as well as less error in data retrival. 
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
