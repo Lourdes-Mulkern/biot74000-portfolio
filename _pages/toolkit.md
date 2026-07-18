@@ -42,22 +42,17 @@ organized by what they are used for._
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** I used BLASTn to find my gene of intrest using the FASTA file I downloaded from the NCBI website. By searching the BLAST database I was able to view the top hit associated with that sequence and compare the organism of intrest to others closely related.
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**Strengths / limitations:** If you have the related FASTA file for the gene you are looking for it is very fast as easy to use. If you were to try and manually input a sequence that you had found, I believe it would require more precision to avoid input errors that would least to incorrect information.
 
 ---
 
-### [Tool Name]
+### MSA (Clustal Omega)
 
-**Use example:** [Your text here.]
+**Use example:** I used this database to visually compare the connection between humans, bats, rats, and flies, based on the same gene present in the organisms. The program uses the protein or nucleotide sequence to find specific conserved regions to align. It then estimates how similar these sequences are to one another in order.
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** You would have to already know which conserved region is withing the gene to be able to compare to other organisms.
 
 ---
 
@@ -65,15 +60,21 @@ relevant, so results need careful interpretation."]
 
 ### UniProt
 
-**Use example:** [Describe one specific retrieval or lookup you performed.]
+**Use example:** I used this database to further my research into my gene of intrest and to identify the specific protein functions and different sequence linked to that specific gene.
 
-**Strengths / limitations:** [One honest note.]
+**Strengths / limitations:** This websitte is only usesful for information on proteins. Having the associated assession nuber helps to narrow down your search and identify the correct protein, rather than all proteins associated with that gene.
+
+### NCBI
+
+**Use example:** I started my inquirey into my gene of intrest within this database. By using the gene library I was able to identify the different component related to my gene such as assession number, gene ID, Gene ontology, protein location and function, its related family and domain. I also used the database to follow the pathway to the protein linked to my gene of intrest.
+
+**Strengths / limitations:** This database is very useful at the start of a new research project. It helps to obtaion the general information and many links to other documents and websites that can help further your investigaion. I dentifying the linked assession nuber is one of the most useful thing, as it connects that specific gene to multiple different webstes, makink for easier traceability and identification.
 
 ---
 
-## Data Visualization
+## Protein Structural & Functional Analysis
 
-### [Tool Name]
+### AlphaFold
 
 **Use example:** [Your text here.]
 
