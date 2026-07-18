@@ -41,15 +41,15 @@ repository: "lourdes-mulkern/biot74000-portfolio"
 #  YOUR PROFILE (appears in the sidebar on every page)
 # -------------------------------------------------------------------
 author:
-  name: "Your Name"
+  name: "Lourdes Mulkern"
   bio: "Bachelor of Applied Biotechnology (Honours) student."
   # To add a profile photo: upload a square image to the images/ folder,
   # then put its filename here (e.g. "profile.jpg"). Leave blank for no photo.
   avatar: ""
   # Optional links in your sidebar. Leave blank to hide. Add your own if you like.
-  email: ""
-  github: ""            # your GitHub username, e.g. "yourusername"
-  linkedin: ""          # your LinkedIn handle, e.g. "yourname"
+  email: "dmulkern@hotmail.com"
+  github: "Lourdes-Mulkern"            # your GitHub username, e.g. "yourusername"
+  linkedin: "www.linkedin.com/in/desi-mulkern-b59b72346"          # your LinkedIn handle, e.g. "yourname"
 
 # ------------------------------------------------------------------------------
 #  ▲▲▲  END OF SECTION TO EDIT  ▲▲▲
