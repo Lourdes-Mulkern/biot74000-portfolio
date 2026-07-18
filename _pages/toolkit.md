@@ -40,7 +40,7 @@ organized by what they are used for._
 
 ## Sequence Analysis Tools
 
-### BLAST (Basic Local Alignment Search Tool)
+### BLAST (Basic Local Alignment Search Tool) complete
 
 **Use example:** I used BLASTn to find my gene of intrest using the FASTA file I downloaded from the NCBI website. By searching the BLAST database I was able to view the top hit associated with that sequence and compare the organism of intrest to others closely related.
 
@@ -48,7 +48,7 @@ organized by what they are used for._
 
 ---
 
-### MSA (Clustal Omega)
+### MSA (Clustal Omega) complete
 
 **Use example:** I used this database to visually compare the connection between humans, bats, rats, and flies, based on the same gene present in the organisms. The program uses the protein or nucleotide sequence to find specific conserved regions to align. It then estimates how similar these sequences are to one another in order.
 
@@ -58,13 +58,13 @@ organized by what they are used for._
 
 ## Databases & Data Retrieval
 
-### UniProt
+### UniProt complete
 
 **Use example:** I used this database to further my research into my gene of intrest and to identify the specific protein functions and different sequence linked to that specific gene.
 
 **Strengths / limitations:** This websitte is only usesful for information on proteins. Having the associated assession nuber helps to narrow down your search and identify the correct protein, rather than all proteins associated with that gene.
 
-### NCBI
+### NCBI complete
 
 **Use example:** I started my inquirey into my gene of intrest within this database. By using the gene library I was able to identify the different component related to my gene such as assession number, gene ID, Gene ontology, protein location and function, its related family and domain. I also used the database to follow the pathway to the protein linked to my gene of intrest.
 
@@ -72,15 +72,57 @@ organized by what they are used for._
 
 ---
 
-## Protein Structural & Functional Analysis
+### Functional Genomics Analysis
 
-### AlphaFold
+### NCBI GEO draft
+
+**Use example:** [Your text here.]
+
+**Strengths / limitations:** [Your text here.]
+
+### G: Profiler draft
 
 **Use example:** [Your text here.]
 
 **Strengths / limitations:** [Your text here.]
 
 ---
+
+## Protein Structural & Functional Analysis
+
+### AlphaFold complete
+
+**Use example:** This program helps to predict the folding pattern of a protein by using confidend levels for each nucleotide in the sequence. I used this program to identify the folding pattern of the NPR3 protein and to analyze the confidence in which the program has dictated the protein folding. 
+
+**Strengths / limitations:** Being able to accurately identify the protien folding reveals the functionalty of the protein as well as potential binding sites. 
+
+### Pfam draft
+
+**Use example:**
+
+**Strength / limitation**
+
+### InterPro draft
+
+**Use example:** [Your text here.]
+
+**Strengths / limitations:** [Your text here.]
+
+### pLDDT complete
+
+**Use example:** Used in tandem with AlphsFold. This website scores your AlphaFold hit to provide further accuracy in the protein fold. This website provides visualization of the gene sequence with colour coded based on the confidence for each nucleitide.
+
+**Strengths / limitations:** This is useful for a secondary identification of protein folding to strengthen the prediction.
+
+---
+
+### Computational Tools
+
+### RStudio Draft
+
+**Use example:** [Your text here.]
+
+**Strengths / limitations:** [Your text here.]
 
 <!--
   Add more categories and entries by copying the pattern above.
