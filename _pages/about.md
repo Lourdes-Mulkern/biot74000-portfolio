@@ -32,9 +32,9 @@ redirect_from:
 Hello — I'm Lourdes Mulkern, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
-I am currently intrested in environmental monitoring and polutions and how we can combat these issues to help create a healthier world.
+I am currently interested in environmental monitoring and polutions and how we can combat these issues to help create a healthier world.
 
-Using bioinformatic tools such as RStdio, will help to analyze mass amounts of data, allowing for faster analysis as well as less error in data retrival. 
+Using bioinformatic tools such as RStudio, will help to analyze mass amounts of data, allowing for faster analysis as well as less error in data retrival. 
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
