@@ -38,7 +38,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 | Skill / Tool | What I can do with it |
 |---|---|
 | [BLAST sequence searches] | [Run and interpret nucleotide and protein searches independently] |
-| [Research Data Retrival] | [Can use a variety of databases in tandem to gather basic information on genes of interest] |
+| [Research Data Retrieval] | [Can use a variety of databases in tandem to gather basic information on genes of interest] |
 | [Skill / Tool] | [What you can do] |
 | [Skill / Tool] | [What you can do] |
 
