@@ -31,22 +31,16 @@ author_profile: true
 ## My Capstone Project
 
 For our capstone project we analyzed 6 different soil sample from different conditions, such as flooded, sub-arctic, farm fields, and the backyard. The analysis we did was to extract the bacteria and microbes from each soil sample and grow them on different types of nutrients to see what different types of bacteria and microbes would grow. The main question we aimed to answer is to identify which bacteria or microbes might aid in drought resistance in plant growth. This particular 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
 
 ## The Bioinformatics Component
 
-[Describe the specific bioinformatics tool, dataset, or method you applied in
-Assignment 2, and explain why it was the right choice for this problem.]
+I used R to write a script to analyze the scores produced for each microbe identification from the MALDI. By creating a script, i made a way to analyze each soil sample in the same way. This helps to avoid any deviations or errors in manual input and calculations.
 
-[In plain language, describe what you found or produced. What did the analysis
-tell you?]
+I produced a graph that shows the mean score for each microbe that was identified within our 'Little Fields' soil sample. This information show how accurately the MALDI was able to identify a specific species.
 
 ## Why It Strengthened My Capstone
 
-[In 1–2 sentences, explain how adding this bioinformatics work made your
-capstone project stronger, more credible, or more complete.]
+This has allows for an easier visual representation, allowing for a better comparison between all soil samples. We were able to identify which soil sample the MALDI was able to better identify microbes from and with what accuracy.
 
 <!--
   OPTIONAL — to embed an image or figure you produced:
