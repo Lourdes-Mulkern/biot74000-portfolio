@@ -39,8 +39,7 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 |---|---|
 | [BLAST sequence searches] | [Run and interpret nucleotide and protein searches independently] |
 | [Research Data Retrieval] | [Can use a variety of databases in tandem to gather basic information on genes of interest] |
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
+
 
 ## Beginner / Basic Exposure
 
@@ -52,7 +51,4 @@ _Skills I have used in a guided setting and would need support to apply independ
 | [AI prediction Modeling software] | [Can understand confidence of the predicted model; Not full understanding of the other parts of the website] |
 | [plDDT] | [Can understand confidence of the predicted model; Not full understanding of the other parts of the website] |
 | [MSA (Clustal Omega)] | [Basic navigation of the website] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
+
