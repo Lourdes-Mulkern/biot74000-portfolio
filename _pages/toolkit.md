@@ -74,18 +74,6 @@ organized by what they are used for._
 
 ### Functional Genomics Analysis
 
-### NCBI GEO 
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
-
-### G: Profiler
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
-
 ---
 
 ## Protein Structural & Functional Analysis
@@ -96,17 +84,7 @@ organized by what they are used for._
 
 **Strengths / limitations:** Being able to accurately identify the protein folding reveals the functionality of the protein as well as potential binding sites. 
 
-### Pfam
 
-**Use example:**
-
-**Strength / limitation**
-
-### InterPro draft
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
 
 ### pLDDT
 
@@ -120,9 +98,9 @@ organized by what they are used for._
 
 ### RStudio
 
-**Use example:** [Your text here.]
+**Use example:** used to do basic math functions, as well as follow a pre-made script to interpret data sets. 
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** excellent for reproducing the same outcome form a variety of data sets by following a script.
 
 <!--
   Add more categories and entries by copying the pattern above.
