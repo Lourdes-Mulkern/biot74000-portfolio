@@ -64,6 +64,8 @@ organized by what they are used for._
 
 **Strengths / limitations:** This website is only useful for information on proteins. Having the associated accession number helps to narrow down your search and identify the correct protein, rather than all proteins associated with that gene.
 
+---
+
 ### NCBI
 
 **Use example:** I started my inquiry into my gene of interest within this database. By using the gene library I was able to identify the different component related to my gene such as accession number, gene ID, Gene ontology, protein location and function, its related family and domain. I also used the database to follow the pathway to the protein linked to my gene of interest.
@@ -72,8 +74,21 @@ organized by what they are used for._
 
 ---
 
-### Functional Genomics Analysis
+## Functional Genomics Analysis
 
+### NCBI GEO draft
+
+**Use example:** [Your text here.]
+
+**Strengths / limitations:** [Your text here.]
+
+---
+
+### G: Profiler draft
+
+**Use example:** [Your text here.]
+
+**Strengths / limitations:** [Your text here.]
 ---
 
 ## Protein Structural & Functional Analysis
@@ -84,7 +99,22 @@ organized by what they are used for._
 
 **Strengths / limitations:** Being able to accurately identify the protein folding reveals the functionality of the protein as well as potential binding sites. 
 
+---
 
+### Pfam 
+
+**Use example:** Matches the protein sequence to different accessions numbers and protein types.
+
+**Strength / limitation:**
+
+---
+
+### InterPro 
+**Use example:** Classifies protein families and matches the protein sequence to AlphaFold confidence, Families, Domains, and intrinsically disordered regions.
+
+**Strengths / limitations:** [Your text here.]
+
+---
 
 ### pLDDT
 
@@ -94,14 +124,22 @@ organized by what they are used for._
 
 ---
 
-### Computational Tools
+## Computational Tools
 
 ### RStudio
 
-**Use example:** used to do basic math functions, as well as follow a pre-made script to interpret data sets. 
+**Use example:** Preform detail analysis of a data set and produce useable data charts for visual comparison of a variety of types of graphs. Learned how to change formatting and colour schemes.
 
-**Strengths / limitations:** excellent for reproducing the same outcome form a variety of data sets by following a script.
+**Strengths / limitations:** excellent for reproducing the same outcome from a variety of data sets by following a script.
 
+---
+
+## Specific Applications in Biotechnology
+
+### Biomanufacturing and Synthetic Biology
+**Use example:** What type of construct are you designing, do you have a clean cell line to work with, what is your expected outcome
+
+**Strengths / limitations:** Data: what type of plasmid you need and what host organism you are working with. Types of resistance and size capacity of your vector.
 <!--
   Add more categories and entries by copying the pattern above.
   Aim for a toolkit that reads like notes a working professional would keep.
