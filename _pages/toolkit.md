@@ -89,6 +89,7 @@ organized by what they are used for._
 **Use example:** [Your text here.]
 
 **Strengths / limitations:** [Your text here.]
+
 ---
 
 ## Protein Structural & Functional Analysis
@@ -140,7 +141,43 @@ organized by what they are used for._
 **Use example:** What type of construct are you designing, do you have a clean cell line to work with, what is your expected outcome
 
 **Strengths / limitations:** Data: what type of plasmid you need and what host organism you are working with. Types of resistance and size capacity of your vector.
+
+---
+
+### Plant Breeding and Genome Editing
+**Use example:** Does this line carry the trait of interest. Can I select for it in future generations
+
+**Strengths / limitations:** Genotyping panels across breeding populations.
+Whole genome resequencing of parental lines.
+Amplicon sequencing at edited sites
+
+---
+
+### Crop Pathogen Genomics
+
+**Use example:** Which pathogens are present in the field.
+ Which strains.
+Which pesticides to use
+
+
+**Strengths / limitations:** ITS or other marker amplicons from field samples.
+Whole genome resequencing of isolates.
+Targeted screening of known resistance alleles.
+
+---
+
+### Environmental Monitoring and Bio-Surveillance
+
+**Use example:** Is the organism present?
+Abundance/ threshold.
+
+
+**Strengths / limitations:** [Your text here.]
+
+---
+
 <!--
   Add more categories and entries by copying the pattern above.
   Aim for a toolkit that reads like notes a working professional would keep.
+  
 -->
