@@ -74,24 +74,6 @@ organized by what they are used for._
 
 ---
 
-## Functional Genomics Analysis
-
-### NCBI GEO draft
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
-
----
-
-### G: Profiler draft
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
-
----
-
 ## Protein Structural & Functional Analysis
 
 ### AlphaFold
@@ -131,23 +113,31 @@ organized by what they are used for._
 
 **Use example:** Preform detail analysis of a data set and produce useable data charts for visual comparison of a variety of types of graphs. Learned how to change formatting and colour schemes.
 
-**Strengths / limitations:** excellent for reproducing the same outcome from a variety of data sets by following a script.
+**Strengths / limitations:** Excellent for reproducing the same outcome from a variety of data sets by following a script.
 
 ---
 
-## Specific Applications in Biotechnology
+### Github
+
+**Use example:** Creating an online portfolio of useable work skill and tools to showcase my abilities to potential employers. 
+
+**Strengths / limitation:** I am able to modify an already existing repository, not able to create one from scratch. 
+
+---
+
+## Specific Applications in Biotechnology (Theory Based) 
 
 ### Biomanufacturing and Synthetic Biology
 **Use example:** What type of construct are you designing, do you have a clean cell line to work with, what is your expected outcome
 
-**Strengths / limitations:** Data: what type of plasmid you need and what host organism you are working with. Types of resistance and size capacity of your vector.
+**Data:** Data: what type of plasmid you need and what host organism you are working with. Types of resistance and size capacity of your vector.
 
 ---
 
 ### Plant Breeding and Genome Editing
 **Use example:** Does this line carry the trait of interest. Can I select for it in future generations
 
-**Strengths / limitations:** Genotyping panels across breeding populations.
+**Data:** Genotyping panels across breeding populations.
 Whole genome resequencing of parental lines.
 Amplicon sequencing at edited sites
 
@@ -155,24 +145,17 @@ Amplicon sequencing at edited sites
 
 ### Crop Pathogen Genomics
 
-**Use example:** Which pathogens are present in the field.
- Which strains.
-Which pesticides to use
+**Use example:** Which pathogens are present in the field. Which strains. Which pesticides to use
 
-
-**Strengths / limitations:** ITS or other marker amplicons from field samples.
-Whole genome resequencing of isolates.
-Targeted screening of known resistance alleles.
+**Data:** ITS or other marker amplicons from field samples. Whole genome resequencing of isolates. Targeted screening of known resistance alleles.
 
 ---
 
 ### Environmental Monitoring and Bio-Surveillance
 
-**Use example:** Is the organism present?
-Abundance/ threshold.
+**Use example:** Is the organism present? Abundance/ threshold. Changes over time.
 
-
-**Strengths / limitations:** [Your text here.]
+**Data:** eDNA from soil, air and water samples. Metabarcoding from many sites.
 
 ---
 
