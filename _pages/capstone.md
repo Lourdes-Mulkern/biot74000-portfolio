@@ -30,7 +30,7 @@ author_profile: true
 
 ## My Capstone Project
 
-For our capstone project we analyzed 6 different soil sample from different conditions, such as flooded, sub-arctic, farm fields, and the backyard. The analysis we did was to extract the bacteria and microbes from each soil sample and grow them on different types of nutrients to see what different types of bacteria and microbes would grow. The main question we aimed to answer is to identify which bacteria or microbes might aid in drought resistance in plant growth. This particular 
+For our capstone project we (Brianna Begg, Jade Mulholland, and I) analyzed 6 different soil sample from different conditions, such as flooded, sub-arctic, farm fields, and the backyard. The analysis we did was to extract the bacteria and microbes from each soil sample and grow them on different types of nutrients to see what different types of bacteria and microbes would grow. The main question we aimed to answer is to identify which bacteria or microbes might aid in drought resistance in plant growth. This particular 
 
 ## The Bioinformatics Component
 
